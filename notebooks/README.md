@@ -1,4 +1,4 @@
-#Planned notebook spread
+# Planned notebook spread
 
 - `00_data_inspection.ipynb`
 - `01_preprocessing.ipynb`
