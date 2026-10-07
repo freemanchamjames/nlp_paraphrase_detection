@@ -1,0 +1,9 @@
+Planned notebook spread
+
+00_data_inspection.ipynb
+01_preprocessing.ipynb
+02_group1_count_models.ipynb
+03_group2_from_scratch.ipynb
+04_group3_distilbert.ipynb
+05_group4_prompting.ipynb
+06_evaluation.ipynb
