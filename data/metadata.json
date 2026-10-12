@@ -1,0 +1,25 @@
+{
+  "dataset": "nyu-mll/glue",
+  "config": "mrpc",
+  "label_mapping": {
+    "0": "not_paraphrase",
+    "1": "paraphrase"
+  },
+  "splits": {
+    "train": {
+      "rows": 3668,
+      "file": "data\\raw\\train.csv",
+      "sha256": "137ca351b66651b258deb13183c17dc5f44694003c13c98c2e15f372ee925c73"
+    },
+    "validation": {
+      "rows": 408,
+      "file": "data\\raw\\validation.csv",
+      "sha256": "b23f58f5d417eb89581ab8d663eaf4c123e140b9c03a3029f7d61a6fa98122f2"
+    },
+    "test": {
+      "rows": 1725,
+      "file": "data\\raw\\test.csv",
+      "sha256": "aff66e9167a3afa93f74efb784bc1731fcc56cfcc4dab303e3a192f62ec99c11"
+    }
+  }
+}
