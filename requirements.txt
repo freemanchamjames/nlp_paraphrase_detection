@@ -4,3 +4,6 @@ numpy
 scikit-learn
 matplotlib
 jupyter
+torch
+transformers>=4.41
+accelerate>=0.26
