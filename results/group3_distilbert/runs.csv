@@ -1,0 +1,2 @@
+n_train,seed,epochs_run,best_epoch,max_epochs,val_accuracy,val_f1,test_accuracy,test_f1,train_seconds,model,lr,batch_size,finished_at
+3668,42,5.0,4.0,5,0.8456,0.8927,0.8278,0.8763,163.4,distilbert-base-uncased,2e-05,16,2026-10-13T18:54:44

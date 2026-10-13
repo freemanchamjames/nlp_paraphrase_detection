@@ -1,0 +1,2 @@
+n_train,runs,val_f1_mean,val_f1_std,test_f1_mean,test_f1_std,test_acc_mean
+3668,1,0.8927,,0.8763,,0.8278
