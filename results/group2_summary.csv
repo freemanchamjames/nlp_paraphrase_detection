@@ -1,0 +1,3 @@
+model,split,accuracy,f1
+logistic_regression,test,0.7154,0.8164
+ffnn_64_16_mean_3seeds,test,0.725,0.8155
