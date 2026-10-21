@@ -1,0 +1,5 @@
+mode,seed,prompt,k_shots,val_accuracy,val_f1,val_said_yes,val_yes_no_mass,test_accuracy,test_f1,test_said_yes,test_yes_no_mass,seconds,model
+zero_shot,-1,plain,0,0.7819,0.8524,0.794,1.0,0.7577,0.8297,0.758,1.0,19.2,Qwen/Qwen2.5-1.5B-Instruct
+few_shot,42,plain,4,0.7206,0.7824,0.6,1.0,0.7096,0.7602,0.546,1.0,75.3,Qwen/Qwen2.5-1.5B-Instruct
+few_shot,43,plain,4,0.7157,0.7761,0.586,1.0,0.7009,0.7493,0.528,1.0,66.8,Qwen/Qwen2.5-1.5B-Instruct
+few_shot,44,plain,4,0.6912,0.7558,0.581,1.0,0.7119,0.7596,0.533,1.0,75.4,Qwen/Qwen2.5-1.5B-Instruct

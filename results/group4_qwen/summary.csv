@@ -1,0 +1,3 @@
+mode,runs,val_f1,test_f1,test_f1_sd,test_acc,said_yes
+few_shot,3,0.7714,0.7564,0.0061,0.7075,0.5357
+zero_shot,1,0.8524,0.8297,,0.7577,0.758
