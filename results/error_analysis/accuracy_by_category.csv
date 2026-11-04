@@ -1,0 +1,8 @@
+auto_category,pairs,paraphrase_share,distilbert_acc,qwen_acc
+other,885,0.821,0.903,0.86
+changed numbers or names,442,0.471,0.771,0.692
+"high overlap, different meaning",117,0.0,0.53,0.222
+"low overlap, same meaning",117,1.0,0.821,0.769
+extra or missing detail,97,0.546,0.804,0.784
+negation,64,0.609,0.766,0.703
+swapped roles,3,1.0,1.0,1.0
