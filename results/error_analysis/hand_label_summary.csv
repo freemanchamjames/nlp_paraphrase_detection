@@ -1,0 +1,7 @@
+hand_category,only DistilBERT right,only Qwen right,total
+extra or missing detail,13,13,26
+changed numbers or names,3,5,8
+"high overlap, different meaning",3,3,6
+"low overlap, same meaning",4,2,6
+label looks wrong,2,1,3
+negation,0,1,1
